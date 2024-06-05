@@ -483,12 +483,12 @@ body {
     padding: 0 26px;
   }
 
-  .form input {
+  .form button {
     width: 310px;
   }
 
   .form button {
-    padding: 12px 93px;
+    padding: 12px 80px;
   }
 }
 
